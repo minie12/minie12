@@ -1,9 +1,13 @@
+이화여자대학교 엘텍공과대학 컴퓨터공학과 (2022년 8월 졸업 예정)\
+게임 제작 동아리 KING\
+로보틱스/그래픽스 연구실 학부생 인턴
+
 ### Tech Skills
 ```C++``` ```C#``` ```Python``` \
 ```Unity``` ```ROS``` ```CMake``` ```Git```
 
-To see more info :point_right: [[click here](https://github.com/minie12/minie12/blob/main/pf/readme.md)]
 
+#### [More info...](https://github.com/minie12/minie12/blob/main/pf/readme.md)
 
 
 <!--
