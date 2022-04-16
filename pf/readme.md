@@ -34,7 +34,7 @@
        도박사에게 은혜를 입은 마술사는 도박사를 위해 사건의 진실을 밝혀내기로 합니다. 스토리와 퍼즐 요소를 풀어 단서를 얻고 
        범인이 누구인지 밝혀내세요.
 ```
-**프로젝트 독** [[GITHUB](https://github.com/KingProjectPoison/Project_Poison/tree/master/Project%20Poison/Assets/1_stage/Scripts)] [[시연영상](https://www.youtube.com/watch?v=RMCHjv6TGrc)]
+**프로젝트 독** [[시연영상](https://www.youtube.com/watch?v=RMCHjv6TGrc)]
 ```bash
 기간 | 2018.06 ~ 2018.08
 장르 | 스토리 미니게임 모바일 게임 (Unity2D)
