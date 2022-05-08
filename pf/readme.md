@@ -9,9 +9,9 @@
 
 ## AWARDS
 **2019-11** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Junction 2019 Community Challenge 2위 수상 \
-**2020-07** &nbsp;&nbsp;&nbsp;&nbsp;    2020 캡스톤디자인 우수상 \
-**2021-07** &nbsp;&nbsp;&nbsp;&nbsp;    한국컴퓨터그래픽스학회(KCGS) 학부우수논문상 \
-**2021-08** &nbsp;&nbsp;&nbsp;&nbsp;    MS Hackalearn 가장 창의적인 부문 수상 \
+**2020-07** &nbsp;&nbsp;&nbsp;&nbsp;    2020 졸업프로젝트 우수상 \
+**2021-07** &nbsp;&nbsp;&nbsp;&nbsp;    2021 한국컴퓨터그래픽스 학술대회 학부우수논문상 \
+**2021-08** &nbsp;&nbsp;&nbsp;&nbsp;    MS Hackalearn x Korea 2021 가장 창의적인 부문 수상 \
 **2021-12** &nbsp;&nbsp;&nbsp;&nbsp;    2021 인공지능과 예술 국립중앙과학관 일반부 입선
 
 ## PROJECTS
